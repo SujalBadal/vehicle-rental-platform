@@ -89,3 +89,12 @@ There is no automated test script in the current package manifests. Vehicles and
 
 - [API_ROUTES.md](API_ROUTES.md) lists the registered backend endpoints and access rules.
 - [SYSTEM_DESIGN.md](SYSTEM_DESIGN.md) describes architecture, workflows, models, and deployment configuration.
+
+- ## 🌐 Live Application
+
+| Service | URL |
+|---|---|
+| 🚀 Live Website | [Vehicle Rental Platform](https://vehicle-rental-platform-pi.vercel.app/) |
+| 🔐 Login | [Login Page](https://vehicle-rental-platform-pi.vercel.app/login) |
+| ⚙️ Backend API | [API Server](https://vehicle-rental-platform-v546.onrender.com/) |
+| ❤️ Health Check | [API Health](https://vehicle-rental-platform-v546.onrender.com/api/v1/health) |
